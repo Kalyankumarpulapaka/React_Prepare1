@@ -1,0 +1,30 @@
+
+.mainbox{
+  border: 4px solid black;
+  height: 80%;
+  width: 80%;
+  display: flex;
+   padding: 30px;
+  background-color: rgb(53, 17, 230);
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  margin: 7% 5% 5% 7%;
+   
+}
+.minibox{
+height: fit-content;
+width: 300px;
+border: 2px solid ;
+text-align: center;
+padding: 10px;
+background-color: bisque;
+}
+.para{
+  color: rgb(210, 23, 217);
+}
+.hd{
+  color: rgb(51, 12, 206);
+}
